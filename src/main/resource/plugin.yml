@@ -1,0 +1,7 @@
+name: AdvancedMining
+version: 1.0.0
+main: me.fliqq.advancedmining.AdvancedMining
+description: AdvancedMining system plugin
+author: Fliqq
+api-version: "1.21.1"
+softdepend: []
